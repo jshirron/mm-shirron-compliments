@@ -18,19 +18,19 @@
                 "Look, just go back to bed.",
                 "I love the smell of napalm in the morning",
 				"GOOOOOOD MORNING VIETNAAAAAAM"
-		]
-		"afternoon": [
+		],
+	"afternoon": [
                 "Good afternoon!"
-        ]
+        ],
         "evening": [
                 "Good evening!"
-        ]
+        ],
         "day_sunny": [
                 "It's a beautiful day outside."
-        ]
+        ],
         "day_cloudy": [
                 "It's cloudy out, but no meatballs... yet."
-        ]
+        ],
         "snow": [
                 "Snowball fight!",
                 "Oh the weather outside is frightful..."
@@ -38,32 +38,32 @@
 		        "rain": [
                 "Wear a jacket today.",
                 "Want an umbrella?"
-        ]
+        ],
         "night_clear":[
                 "Weather forecast for tonight: Dark"
-        ]
+        ],
         "showers": [
                 "Wear a jacket today.",
                 "Want an umbrella?"
-        ]
+        ],
         "thunderstorm": [
                 "Boom!",
                 "When thunder roars, stay indoors!",
                 "It is a dark and stormy night"
-        ]
+        ],
         "....-12-22": [
                 "Happy Birthday Nick!"
-        ]
+        ],
         "....-12-25": [
                 "Merry Christmas!"
-        ]
+        ],
         "....-07-04": [
                 "Happy Independence Day!"
-        ]
+        ],
         "....-10-31": [
                 "Boo!"
                 "Happy Halloween!"
-        ]
+        ],
         "....05-04": [
                 "May the Fourth be with you"
         ]
